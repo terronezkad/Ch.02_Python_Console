@@ -18,9 +18,11 @@ print(a+5)
 print(a**b)
 print(b%2)
 
-a,b=(5,"kadin")
+a,b,c=(5,"kadin",6)
 print(a)
 print(b)
+d=4*(a+c)
+print(d)
 
 x=8
 print(x)
