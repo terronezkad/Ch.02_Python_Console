@@ -46,7 +46,7 @@ print(a)
 5.) What is the mistake in the following code so it will calculate the average. Fix it!
 '''
 x,y,z =(3,4,5)
-ave = ((x+y+z)/3)
+ave = ((x+y+z)/3) #added parenthesis to for order of operation
 print(ave)
 
 '''
