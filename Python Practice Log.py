@@ -46,3 +46,6 @@ print(type(d))
 #int=integer
 #str=string
 #bool= boolian(true or false)
+
+a=2
+print(a**7)
